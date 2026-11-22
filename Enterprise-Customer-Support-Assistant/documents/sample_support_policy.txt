@@ -1,0 +1,12 @@
+# Sample Customer Support Policy
+
+1. Refund Policy
+
+Customers can request a refund within 30 days of purchase. Refund requests must include the order number and proof of purchase. Approved refunds are processed within 5 to 7 business days.
+ 2. Delivery Policy
+
+Standard delivery usually takes 3 to 5 business days. Customers can track their orders using the tracking link provided in their shipping confirmation email.
+
+ 3. Account Support
+
+Customers who forget their passwords can reset them through the Forgot Password option on the login page. For additional account assistance, customers can contact the customer support team.
